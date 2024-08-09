@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="StacktraceSettings">
+    <option name="folders">
+      <set>
+        <option value="$PROJECT_DIR$/spring-ecomm-jpa/src/main/java" />
+        <option value="$PROJECT_DIR$/spring-ecomm-jpa/src/main/resources" />
+        <option value="$PROJECT_DIR$/spring-ecomm-jpa/src/test/java" />
+        <option value="$PROJECT_DIR$/spring-ecomm-jpa/target/generated-sources/annotations" />
+        <option value="$PROJECT_DIR$/spring-ecomm-jpa/target/generated-test-sources/test-annotations" />
+      </set>
+    </option>
+    <option name="packages">
+      <set>
+        <option value="com.ecom.spring_ecomm_jpa" />
+      </set>
+    </option>
+  </component>
+</project>
